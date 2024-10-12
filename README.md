@@ -4,6 +4,9 @@
 
 An exact 1:1 reproduction of the original riser card used in Neoware Eon/CA2 systems. This riser card enables the conversion of PISA to ISA and PCI.
 
+[./production.zip](./production.zip) contains gerber files and everything needed to manufacture this card.
+
+
 ## Features
 
 - **Function**: Converts PISA to ISA & PCI
